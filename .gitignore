@@ -110,3 +110,6 @@ tmp/
 snapshot/
 
 .vscode
+
+# pycharm
+.idea
